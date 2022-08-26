@@ -1,0 +1,520 @@
+<?xml version="1.0"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Vanessa R. von Biela (ORCID: 0000-0002-7139-5981)</origin>
+		<origin>Bryan A. Black (ORCID: 0000-0001-6851-257X)</origin>
+		<origin>Peter van der Sleen</origin>
+        <pubdate>20200706</pubdate>
+        <title>Lake Trout Otolith Growth Increment Measurements, Lake Clark National Park and Preserve, Alaska, 1979-2012</title>
+        <geoform>spreadsheet</geoform>
+        <pubinfo>
+          <pubplace>Anchorage, AK</pubplace>
+          <publish>U.S. Geological Survey, Alaska Science Center</publish>
+        </pubinfo>
+        <othercit>von Biela, V.R., Black, B.A., Sleen, P., 2020, Lake trout otolith growth increment measurements, Lake Clark National Park and Preserve, Alaska, 1979-2012: U.S. Geological Survey data release, https://doi.org/10.5066/P92YV00Z.</othercit>
+        <onlink>https://doi.org/10.5066/P92YV00Z</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Christian E. Zimmerman</origin>
+            <pubdate>2011</pubdate>
+            <title>Lake Clark--Lake Trout Biochronology</title>
+            <geoform>website</geoform>
+            <pubinfo>
+              <pubplace>Anchorage, AK</pubplace>
+              <publish>U.S. Geological Survey, Alaska Science Center</publish>
+            </pubinfo>
+            <othercit>This is a link to the broader USGS Alaska Science Center research project supported by these data. Users will find a description of the research project and links to associated reports, publications, and data products.</othercit>
+            <onlink>https://alaska.usgs.gov/portal/project.php?project_id=337</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This data set documents the width of annual otolith growth increments from Lake Trout collected in lakes within Lake Clark National Park and Preserve, Alaska. The analysis of this data was published in von Biela et al. 2020 (DOI: 10.1111/eff.12566)</abstract>
+      <purpose>The data were obtained to develop an otolith growth chronology for Lake Trout as a proxy for lake production.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>1979</begdate>
+          <enddate>2012</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <descgeog>Lake Clark National Park and Preserve</descgeog>
+      <bounding>
+        <westbc>-154.8</westbc>
+        <eastbc>-153.6</eastbc>
+        <northbc>60.99</northbc>
+        <southbc>60.11</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>biota</themekey>
+        <themekey>environment</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Biocomplexity Thesaurus</themekt>
+        <themekey>growth</themekey>
+        <themekey>lakes</themekey>
+        <themekey>Oligotrophic lakes</themekey>
+        <themekey>Otoliths</themekey>
+        <themekey>genetic diversity</themekey>
+        <themekey>genetic structure</themekey>
+      </theme>
+      <theme>
+        <themekt>NASA GCMD Earth Science Keyword Thesaurus</themekt>
+        <themekey>Earth Science</themekey>
+        <themekey>Aquatic Ecosystems</themekey>
+        <themekey>Biosphere</themekey>
+        <themekey>Animals/vertebrates</themekey>
+        <themekey>fish</themekey>
+        <themekey>ray-finned fishes</themekey>
+        <themekey>salmons/trouts</themekey>
+        <themekey>lakes</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>fish</themekey>
+        <themekey>field sampling</themekey>
+      </theme>
+      <place>
+        <placekt>Geographic Names Information System</placekt>
+        <placekey>Lake Clark National Preserve</placekey>
+        <placekey>Alaska Peninsula</placekey>
+        <placekey>Alaska</placekey>
+      </place>
+      <stratum>
+        <stratkt>USGS Biocomplexity Thesaurus</stratkt>
+        <stratkey>freshwater</stratkey>
+      </stratum>
+    </keywords>
+    <taxonomy>
+      <keywtax>
+        <taxonkt>USGS Biocomplexity Thesaurus</taxonkt>
+        <taxonkey>Fishes</taxonkey>
+      </keywtax>
+      <taxonsys>
+        <classsys>
+          <classcit>
+            <citeinfo>
+              <origin>Integrated Taxonomic Information System</origin>
+              <pubdate>Unknown</pubdate>
+              <title>Integrated Taxonomic Information System</title>
+              <geoform>on-line database</geoform>
+              <serinfo>
+                <sername>ITIS</sername>
+                <issue>TSN 162002</issue>
+              </serinfo>
+              <pubinfo>
+                <pubplace>online</pubplace>
+                <publish>ITIS-North America</publish>
+              </pubinfo>
+              <othercit>Retrieved 2019-10-29 from the Integrated Taxonomic Information System on-line database http://www.itis.gov</othercit>
+              <onlink>http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=162002</onlink>
+            </citeinfo>
+          </classcit>
+        </classsys>
+        <idref>
+          <citeinfo>
+            <origin>Catherine W. Mecklenburg</origin>
+            <origin>T. Anthony Mecklenburg</origin>
+            <origin>Lyman K. Thorsteinson</origin>
+            <pubdate>2002</pubdate>
+            <title>Fishes of Alaska</title>
+            <geoform>book chapter</geoform>
+            <pubinfo>
+              <pubplace>Bethesda, Maryland</pubplace>
+              <publish>American Fisheries Society</publish>
+            </pubinfo>
+          </citeinfo>
+        </idref>
+        <ider>
+          <cntinfo>
+            <cntperp>
+              <cntper>Daniel Young</cntper>
+              <cntorg>National Parks Center</cntorg>
+            </cntperp>
+            <cntaddr>
+              <addrtype>mailing and physical</addrtype>
+              <address>240 W 5th Ave</address>
+              <city>Anchorage</city>
+              <state>AK</state>
+              <postal>99501</postal>
+              <country>US</country>
+            </cntaddr>
+            <cntvoice>907-781-2113</cntvoice>
+          </cntinfo>
+        </ider>
+        <taxonpro>Lake trout were identified by skilled observers in the field based on the presence of their deeply forked tail and the absence of pink spots.</taxonpro>
+      </taxonsys>
+      <taxongen>Lake trout, Salvelinus namaycush</taxongen>
+      <taxoncl>
+        <taxonrn>Kingdom</taxonrn>
+        <taxonrv>Animalia</taxonrv>
+        <taxoncl>
+          <taxonrn>Subkingdom</taxonrn>
+          <taxonrv>Bilateria</taxonrv>
+          <taxoncl>
+            <taxonrn>Infrakingdom</taxonrn>
+            <taxonrv>Deuterostomia</taxonrv>
+            <taxoncl>
+              <taxonrn>Phylum</taxonrn>
+              <taxonrv>Chordata</taxonrv>
+              <common>chordates</common>
+              <taxoncl>
+                <taxonrn>Subphylum</taxonrn>
+                <taxonrv>Vertebrata</taxonrv>
+                <common>vertebrates</common>
+                <taxoncl>
+                  <taxonrn>Infraphylum</taxonrn>
+                  <taxonrv>Gnathostomata</taxonrv>
+                  <taxoncl>
+                    <taxonrn>Superclass</taxonrn>
+                    <taxonrv>Actinopterygii</taxonrv>
+                    <common>ray-finned fishes</common>
+                    <common>spiny rayed fishes</common>
+                    <taxoncl>
+                      <taxonrn>Class</taxonrn>
+                      <taxonrv>Teleostei</taxonrv>
+                      <taxoncl>
+                        <taxonrn>Superorder</taxonrn>
+                        <taxonrv>Protacanthopterygii</taxonrv>
+                        <taxoncl>
+                          <taxonrn>Order</taxonrn>
+                          <taxonrv>Salmoniformes</taxonrv>
+                          <common>salmons</common>
+                          <taxoncl>
+                            <taxonrn>Family</taxonrn>
+                            <taxonrv>Salmonidae</taxonrv>
+                            <common>salmonids</common>
+                            <common>trouts and salmons</common>
+                            <common>salmons</common>
+                            <common>trouts</common>
+                            <taxoncl>
+                              <taxonrn>Subfamily</taxonrn>
+                              <taxonrv>Salmoninae</taxonrv>
+                              <taxoncl>
+                                <taxonrn>Genus</taxonrn>
+                                <taxonrv>Salvelinus</taxonrv>
+                                <common>chars</common>
+                                <taxoncl>
+                                  <taxonrn>Species</taxonrn>
+                                  <taxonrv>Salvelinus namaycush</taxonrv>
+                                  <common>lake trout</common>
+                                  <common>TSN: 162002</common>
+                                </taxoncl>
+                              </taxoncl>
+                            </taxoncl>
+                          </taxoncl>
+                        </taxoncl>
+                      </taxoncl>
+                    </taxoncl>
+                  </taxoncl>
+                </taxoncl>
+              </taxoncl>
+            </taxoncl>
+          </taxoncl>
+        </taxoncl>
+      </taxoncl>
+    </taxonomy>
+    <accconst>None.</accconst>
+    <useconst>It is requested that the authors and the USGS Alaska Science Center be cited for any subsequent publications that reference this dataset.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Vanessa von Biela</cntper>
+          <cntorg>U.S. Geological Survey, Alaska Science Center</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>4210 University Drive</address>
+          <city>Anchorage</city>
+          <state>AK</state>
+          <postal>99508</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>907-786-7000</cntvoice>
+        <cntemail>ascweb@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>This project was funded by the Natural Resources Protection Program (NRPP) of the U.S. Geological Survey Ecosystems Mission Area.</datacred>
+    <crossref>
+      <citeinfo>
+        <origin>Vanessa R von Biela</origin>
+        <origin>Bryan A Black</origin>
+        <origin>Daniel B Young</origin>
+        <origin>Peter van der Sleen</origin>
+        <origin>Krista K Bartz</origin>
+        <origin>Christian E Zimmerman</origin>
+        <pubdate>2020</pubdate>
+        <title>Resident fish growth is sensitive to spring temperature in southwest Alaska lakes</title>
+        <geoform>journal article</geoform>
+        <serinfo>
+          <sername>Ecology of Freshwater Fish</sername>
+          <issue>unavailable</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>On-line</pubplace>
+          <publish>John Wiley &amp; Sons Ltd</publish>
+        </pubinfo>
+        <othercit>Ecology of Freshwater Fish: https://onlinelibrary.wiley.com/journal/16000633</othercit>
+        <onlink>https://doi.org/10.1111/eff.12566</onlink>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>R. Kreiner</origin>
+        <pubdate>2006</pubdate>
+        <title>An investigation of Arctic Char (Salvelinus alpinus) and Lake Trout (Salvelinus namaycush) in Lake Clark National Park, Alaska</title>
+        <geoform>journal article</geoform>
+        <pubinfo>
+          <pubplace>University of Idaho</pubplace>
+          <publish>University of Idaho</publish>
+        </pubinfo>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Attributes were spot checked and values were sorted to identify possible errors. All data was plotted for visual comparisons and outliers were confirmed against images of otolith growth increments.</attraccr>
+    </attracc>
+    <logic>Growth increments widths were measured from the most recent age at the otolith edge toward the center of the otolith. Measurement time series can be incomplete within an individual if the annuli for younger ages were difficult to delineate (e.g., a measurement series need not start at age-0 or age-1).</logic>
+    <complete>The only known omissions from this report were the 171 of 251 total lake trout caught that were not included because they had otolith growth increments that were not clear enough for growth measurements.</complete>
+    <lineage>
+      <method>
+        <methtype>Field</methtype>
+        <methdesc>Lake Trout were captured from seven lakes in Lake Clark NPP in the headwaters of Bristol Bay and Kuskokwim Bay in southwest Alaska. Lake Trout were captured using variable mesh floating and sinking gillnets or hook and line sampling in 2004 and 2011–2013 during the summer (June–September) as described in Kreiner (2006).</methdesc>
+        <methcite>
+          <citeinfo>
+            <origin>R. Kreiner</origin>
+            <pubdate>2006</pubdate>
+            <title>An investigation of Arctic Char (Salvelinus alpinus) and Lake Trout (Salvelinus namaycush) in Lake Clark National Park, Alaska</title>
+            <geoform>publication</geoform>
+            <onlink>https://fwslibrary.on.worldcat.org/search?queryString=no%3A+137274251#/oclc/137274251</onlink>
+          </citeinfo>
+        </methcite>
+      </method>
+      <procstep>
+        <procdesc>Otolith increments were measured using the caliper function in Image Pro Premier software (Media Cybernetics, Silver Spring, MD) and electronically copied to a spreadsheet for later analysis. No data transformations were required to arrive at the dataset provided.</procdesc>
+        <procdate>20150101</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <indspref>Indirect location by named lake, Lake Clark and surrounding lakes</indspref>
+  </spdoinfo>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>lakeTrout_otolithGrowth_LakeClarkNP_vonBiela_1979_2012.csv</enttypl>
+        <enttypd>Comma Separated Value (CSV) table containing lake trout id number assignments, replicate identification, the axis used to measure otolith rings, from what lake the fish was caught, the year of capture for the growth increment of the otolith, the age of the fish at the time of increment formation, and the width of the annual increment measured in millimeters.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FishID</attrlabl>
+        <attrdef>Unique identifier assigned to each fish. The first two places in the FishID are "LT" to indicate the common species name, lake trout, and the following three places are digits to indicate the unique number for each individual fish. FishID is not sequential because only 80 of the initial 251 individuals available for this study had otolith growth increments clear enough for growth measurements.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>Using the FishIDs for LLC_LT040 and LT0010, as examples, the prefix LLC_LT represents "Little Lake Clark lake trout" due to early data entry methods, but later FishID prefixes were shortened to LT representing "Lake Trout" when "Lake" became a separate field. The numbers following the aforementioned prefixes, i.e., 040, and 0010, respectively, represent the individual fish.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ReplicateID</attrlabl>
+        <attrdef>Unique identifier assigned to each replicate measurement transect. The first five places indicate the FishID. Some otoliths available for this study were also labeled with an additional number that is included after the FishID following a period (e.g., ".1"). The last place reflects the transect letter denoted as a capital letter A, B, C, or D.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>Example: LT055.1A
+LT stands for Lake Trout. The number represents the FishID. The additional number found after the decimal point is a further identification of the fish otolith. The final letter denotes a blind transect measured on otoliths to minimize errors from interpretation.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Axis</attrlabl>
+        <attrdef>A categorical assignment of the growth transect along which measurements of each annual growth increments were made. A "S" denotes that measurements were made along the short axis on the dorsal side of the otolith immediately adjacent to the sulcus from the nucleus toward the proximal edge. A "L" denotes that measurements were made along the long axis of the otolith from the nucleus toward either the dorsal or ventral edge.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>S</edomv>
+            <edomvd>Measurement performed along the short axis.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>L</edomv>
+            <edomvd>Measurement performed along the long axis.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Lake</attrlabl>
+        <attrdef>The name of the lake where each fish was captured within Lake Clark National Park and Preserve.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Little Lake Clark</edomv>
+            <edomvd>Little Lake Clark, AK.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Kijik</edomv>
+            <edomvd>Kijik Lake, AK</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Portage</edomv>
+            <edomvd>Portage Lake, AK.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Telaquana</edomv>
+            <edomvd>Telaquana Lake, AK.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Kontrashibuna</edomv>
+            <edomvd>Kontrashibuna Lake, AK</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Lake Clark</edomv>
+            <edomvd>Lake Clark, AK.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Fishtrap</edomv>
+            <edomvd>Fishtrap Lake, AK.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Lachbuna</edomv>
+            <edomvd>Lachbuna Lake, AK.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>The year when the growth increment was formed. The year is determined by assigning the capture year to the incomplete growth increment along the otolith edge and sequentially assigning past calendar years to each additional otolith growth increment moving toward the nucleus.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1979</rdommin>
+            <rdommax>2012</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Age</attrlabl>
+        <attrdef>Age of the individual fish at the time of increment formation in years. Age was determined by counting growth increments sequentially from the nucleus.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1</rdommin>
+            <rdommax>29</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Width</attrlabl>
+        <attrdef>The width of annual growth increment measured in millimeters.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.013</rdommin>
+            <rdommax>0.186</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey, Alaska Science Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>4210 University Drive</address>
+          <city>Anchorage</city>
+          <state>AK</state>
+          <postal>99508</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>907-786-7000</cntvoice>
+        <cntemail>ascweb@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc>Authoritative source for the data.</resdesc>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>CSV</formname>
+          <formvern>None</formvern>
+          <formcont>Data in CSV format and metadata in XML and HTML are packaged in a zip file using 7-Zip.</formcont>
+          <filedec>No compression applied, can be upacked with most zip utilities.</filedec>
+          <transize>0.1</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P92YV00Z</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20200710</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey, Alaska Science Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>4210 University Drive</address>
+          <city>Anchorage</city>
+          <state>AK</state>
+          <postal>99508</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>907-786-7000</cntvoice>
+        <cntemail>ascweb@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Biological Data Profile of the Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001.1-1999</metstdv>
+  </metainfo>
+</metadata>
